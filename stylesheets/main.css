@@ -1,14 +1,39 @@
-.title,
-.navigation,
-.main,
-.sidebar,
-.footer {
+body {
   font-family: Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+li {
+  font-size: 1.1em;
+  text-decoration-line: underline;
+}
+
+#login {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration-line: underline;
+  text-align: right;
 }
 
 .title {
   color: white;
   background-color: #aa0000;
+  text-align: left;
 }
 
 .navigation {
@@ -19,6 +44,7 @@
 .main {
   color: black;
   background-color: white;
+  text-align: left;
 }
 
 .sidebar {
@@ -29,4 +55,5 @@
 .footer {
   color: white;
   background-color: #333333;
+  text-align: left;
 }
