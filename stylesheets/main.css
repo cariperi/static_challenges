@@ -1,3 +1,11 @@
+.title,
+.navigation,
+.main,
+.sidebar,
+.footer {
+  font-family: Helvetica, sans-serif;
+}
+
 .title {
   color: white;
   background-color: #aa0000;
