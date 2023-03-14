@@ -1,0 +1,24 @@
+.title {
+  color: white;
+  background-color: #aa0000;
+}
+
+.navigation {
+  color: white;
+  background-color: #333333;
+}
+
+.main {
+  color: black;
+  background-color: white;
+}
+
+.sidebar {
+  color: black;
+  background-color: white;
+}
+
+.footer {
+  color: white;
+  background-color: #333333;
+}
