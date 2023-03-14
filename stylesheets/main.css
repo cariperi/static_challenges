@@ -34,16 +34,18 @@ li {
   padding: 16px;
 }
 
-#login {
-  font-size: 1.1em;
-  font-weight: bold;
-  text-decoration-line: underline;
-}
-
 .title {
   color: white;
   background-color: #aa0000;
-  text-align: left;
+  display: flex;
+  align-items: center;
+}
+
+.title span {
+  margin-left: auto;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration-line: underline;
 }
 
 .navigation {
